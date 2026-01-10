@@ -41,7 +41,7 @@ This project is an ESP32-based smart automation system that integrates multiple 
 4. Upload the code to ESP32
 5. Monitor output via Serial Monitor
 
-##Extras
+## Extras
 We also use  Blynk dashboard to control the whole system manually and automatically . There is two mode in the system ,One is manual and automatic .In Automatic , all will be work automatically . And in manual , Light , fan ,and pump can be turned off/on manually using switch on Blynk dashboard .
 
 - There will be project presentation video in that repo, that will give you demo of the project , which concept and editing is also done by me. Rather than that ,I mostly handle the whole project ,wiring and created the blynk dashboard fully and connect with it.   
